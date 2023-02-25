@@ -11,7 +11,7 @@ body{
     width:70%;
     font-family:'Times New Roman', Times, serif !important;
     font-weight:500;
-    min-width: 600px;
+    min-width: 375px !important;
     
  }
 
